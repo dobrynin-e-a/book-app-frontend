@@ -12,7 +12,7 @@ import avatarImg from "../assets/avatar.png";
 import { useAuth } from "../context/AuthContext";
 
 const navigation = [
-  { name: "Dashboard", href: "/dashboard" },
+  { name: "Dashboard 2", href: "/dashboard" },
   { name: "Orders", href: "/orders" },
   { name: "Cart Page", href: "/cart" },
   { name: "Check Out", href: "/checkout" },
